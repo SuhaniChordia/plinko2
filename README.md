@@ -1,2 +1,2 @@
 # Plinko Game
-https://ramsiddesh.github.io/plinko2/
+https://suhanichordia.github.io/plinko2/
